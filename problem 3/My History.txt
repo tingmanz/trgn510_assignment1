@@ -1,0 +1,60 @@
+    1  cd problem2/
+    2  cd ..
+    3  problem2/
+    4  ls
+    5  problem2
+    6  problem2/
+    7  cd ..
+    8  trgn_assignment1/
+    9  ls
+   10  cd trgn_assignment1/
+   11  ls
+   12  cd problem2
+   13  ls
+   14  vi problem2
+   15  cd bashrc
+   16  vi bashrc 
+   17  source bashrc
+   18  ls
+   19  exit
+   20  ls
+   21  assignments/
+   22  cd assignments/
+   23  ls
+   24  cd trgn_assignment1/
+   25  ls
+   26  cd problem1
+   27  ls
+   28  vi myhistory.txt 
+   29  cd ..
+   30  cd problem2
+   31  ls
+   32  cd problem2 
+   33  history
+   34  ls
+   35  rm -f problem2 
+   36  ls
+   37  cd problem2
+   38  cd ..
+   39  ls
+   40  cd problem2/
+   41  ls
+   42  ls -la
+   43  cd ..
+   44  ls
+   45  ls -la
+   46  ls
+   47  cd problem
+   48  ls
+   49  vi bashrc
+   50  vi vimrc
+   51  ls
+   52  cd assignments/
+   53  ls
+   54  cd trgn_assignment1/
+   55  ls
+   56  mkdir problem\ 3
+   57  ls problem\ 3/
+   58  ls
+   59  ls -l
+   60  history > My\ History.txt 

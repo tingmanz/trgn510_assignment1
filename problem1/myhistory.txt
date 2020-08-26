@@ -1,0 +1,40 @@
+    1  changing password
+    2  new password
+    3  passwd
+    4  ls
+    5  mkdir bin
+    6  ls
+    7  mkdir scripts
+    8  mkdir projects
+    9  ls
+   10  cat /etc/*release | head -1
+   11   FILE="bin"; [ -d "$FILE" ] && echo "$FILE" | md5sum || echo "None" | md5sum | cut -f1
+   12  ls
+   13  cd ~
+   14  cd ..
+   15  ls
+   16  cd tingmanz/
+   17  ls
+   18  cd ..
+   19  ls
+   20  cd assignments/
+   21  ls
+   22  cd trgn_assignment1/
+   23  ls
+   24  vi README.md 
+   25  vi README.md 
+   26  git add . -A
+   27  git status
+   28  git commit -m "First commit"
+   29  git push origin master 
+   30  ls
+   31  cd assignments/
+   32  cd ..
+   33  ls
+   34  cd trgn_assignment1/
+   35  ls
+   36  mkdir problem1
+   37  ls 
+   38  history
+   39  cd problem1/
+   40  history > myhistory.txt
