@@ -1,1 +1,9 @@
 # My processes
+root      99449   2718  0 19:41 ?        00:00:00 sshd: tingmanz [priv]
+tingmanz  99464  99449  0 19:41 ?        00:00:00 sshd: tingmanz@pts/2
+tingmanz  99465  99464  0 19:41 pts/2    00:00:00 -bash
+root     104524   2718  0 20:58 ?        00:00:00 sshd: tingmanz [priv]
+tingmanz 104547 104524  0 20:58 ?        00:00:00 sshd: tingmanz@pts/1
+tingmanz 104548 104547  0 20:58 pts/1    00:00:00 -bash
+tingmanz 107715 104548  0 21:46 pts/1    00:00:00 ps -ef
+tingmanz 107716 104548  0 21:46 pts/1    00:00:00 grep --color=auto tingmanz
